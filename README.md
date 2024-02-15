@@ -13,7 +13,7 @@
 - g. Top 10 most earning players
 - h. Age outliers
 ### 3. Exploratory Data Analysis
-- a. Over or Under Mean Wage/Value\
+- a. Over or Under Mean Wage/Value
 - b. Nationality/Club Rates of the Top 100 Players with Pie Plot
 - c. Player Value Distribution
 - d. Age vs Strength attribute correlation
